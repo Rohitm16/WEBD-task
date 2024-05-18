@@ -332,6 +332,7 @@ button {
   height: 75px;
   width: 75px;
   margin: 5px;
+  border-radius: 3px;
 }
 .sec {
   border-radius: 5px;
